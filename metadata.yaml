@@ -1,11 +1,16 @@
 _repo: On-Horseback-Through-Asia-Minor-Volume-1-of-2_58768
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58768-h/images/cover.jpg
 creator:
   author:
     agent_name: Burnaby, Fred
     gutenberg_agent_id: '50144'
     url: http://www.gutenberg.org/2009/agents/50144
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58768#On-Horseback-Through-Asia-Minor-Volume-1-of-2
 gutenberg_issued: '2019-01-25'
 gutenberg_type: Text
 identifiers:
